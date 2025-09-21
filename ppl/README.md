@@ -117,7 +117,6 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-![alt text](<ppl/Screenshot (23).png>)
 
 
 ## RESULT
